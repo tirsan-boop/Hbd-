@@ -1316,6 +1316,5 @@ body {
   }
 }
 .container * {
-  -webkit-animation-play-state: paused !important;
-          animation-play-state: paused !important;
+  -webkit-animation-play-state: paused
 }
